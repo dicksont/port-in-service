@@ -1,0 +1,30 @@
+{
+  "name": "port-in-service",
+  "version": "0.0.1",
+  "description": "Checks to see if a port is in service",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dicksont/port-in-service.git"
+  },
+  "keywords": [
+    "port",
+    "open",
+    "listening",
+    "established",
+    "scan",
+    "check"
+  ],
+  "author": "Dickson Tam <dicksont650@gmail.com> (http://dicksont.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dicksont/port-in-service/issues"
+  },
+  "homepage": "https://github.com/dicksont/port-in-service#readme"
+}
